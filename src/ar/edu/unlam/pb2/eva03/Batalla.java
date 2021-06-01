@@ -2,6 +2,7 @@ package ar.edu.unlam.pb2.eva03;
 
 import java.util.List;
 
+import ar.edu.unlam.pb2.eva03.Interfaces.Vehiculo;
 import ar.edu.unlam.pb2.eva03.enumeradores.TipoDeBatalla;
 
 public class Batalla {

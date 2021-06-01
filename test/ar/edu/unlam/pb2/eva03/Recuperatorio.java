@@ -4,6 +4,9 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 
+import ar.edu.unlam.pb2.eva03.Interfaces.Terrestre;
+import ar.edu.unlam.pb2.eva03.Interfaces.Volador;
+
 public class Recuperatorio {
 
 	@Test
